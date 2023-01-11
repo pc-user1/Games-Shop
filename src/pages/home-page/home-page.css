@@ -1,0 +1,7 @@
+.home-page {
+  padding: 0.4em;
+  width: 110%;
+  display: flex;
+  flex-wrap: wrap;
+  overflow: hidden;
+}

@@ -1,0 +1,7 @@
+.game-icon {
+  display: inline;
+}
+
+.game-block__icon {
+  margin-bottom: -5px;
+}

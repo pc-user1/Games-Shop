@@ -1,0 +1,15 @@
+.game-order {
+  margin-top: 4.5em;
+}
+
+.button-place {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1em;
+  margin-top: 2 em;
+}
+
+.price-summary__total {
+  font-size: 20px;
+  font-weight: bold;
+}

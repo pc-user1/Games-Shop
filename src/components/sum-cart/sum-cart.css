@@ -1,0 +1,15 @@
+.sum-cart {
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  background-color: rgb(2, 88, 7);
+  border-radius: 15px;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  z-index: 2;
+  left: 1900 px;
+  top: -1px;
+}

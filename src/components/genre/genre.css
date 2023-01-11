@@ -1,0 +1,11 @@
+.genre {
+  color: rgb(0, 89, 255);
+  background-color: rgb(39, 41, 61);
+  padding: 2px 5px;
+  font-size: 14px;
+  border-radius: 10px;
+}
+
+.genre:not(:last-child) {
+  margin-right: 7px;
+}
